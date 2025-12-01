@@ -94,6 +94,7 @@ font-size:large;
 .about-main-t{
 flex-direction:column;
 height:auto;
+gap: 20px;
 padding:30px 0;
 }
 
