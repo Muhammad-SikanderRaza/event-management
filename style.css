@@ -40,7 +40,7 @@
 }
 
 #About h1{
-  color: var();
+  color: var(--golden-bronze);
 }
 
 .about-main-t{
@@ -65,12 +65,16 @@
   padding: 20px;
   font-size: x-large;
   gap: 30px;
-  background-color: var(--alabaster-grey);
+  background-color: var(--jet-black);
 }
 
 .allcards-t h2{
-  color: var();
+  color: var(--golden-bronze);
   font-size: 30px;
+}
+
+.allcards-t p{
+  color: var(--white);
 }
 
 @media (max-width: 575.98px) {
