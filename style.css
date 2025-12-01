@@ -66,6 +66,12 @@
   font-size: x-large;
   gap: 30px;
   background-color: var(--jet-black);
+  transition: all 0.3s ease-in-out;
+}
+
+.allcards-t:hover{
+  transform: translatey(-20px);
+  box-shadow: 0 0 15px 3px;
 }
 
 .allcards-t h2{
